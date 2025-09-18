@@ -1,0 +1,3 @@
+[submodule "libs/test-submodule"]
+	path = libs/test-submodule
+	url = https://github.com/Flexerin0/test-submodule.git
